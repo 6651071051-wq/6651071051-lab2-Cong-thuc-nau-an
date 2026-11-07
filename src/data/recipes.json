@@ -1,0 +1,625 @@
+[
+ {
+  "id": "pho-bo",
+  "name": "Phở bò",
+  "category": "Món nước",
+  "region": "Miền Bắc",
+  "time": 180,
+  "servings": 4,
+  "wiki": "Phở",
+  "ingredients": [
+   "Xương ống bò — 1 kg",
+   "Thịt bò (nạm, tái) — 400 g",
+   "Bánh phở tươi — 500 g",
+   "Hành tây, gừng nướng — 1 củ mỗi loại",
+   "Hồi, quế, thảo quả — 1 ít",
+   "Nước mắm, muối — vừa đủ",
+   "Hành lá, ngò, giá, chanh, ớt — ăn kèm"
+  ],
+  "steps": [
+   "Sơ chế xương: ngâm xương ống bò trong nước muối loãng 30 phút, chần với nước sôi 5 phút rồi rửa sạch dưới vòi nước để nước dùng không bị đục và hôi.",
+   "Nướng gia vị: nướng hành tây và gừng (để cả vỏ) trên lửa đến khi xém vỏ, thơm; cạo sạch phần cháy, đập dập gừng. Rang hồi, quế, thảo quả trong chảo khô lửa nhỏ khoảng 2 phút đến khi dậy mùi, cho vào túi lọc.",
+   "Hầm nước dùng: cho xương vào nồi với khoảng 3 lít nước, thêm hành, gừng và túi gia vị; đun sôi rồi hạ lửa liu riu, đậy hé nắp, hầm 2–3 tiếng và thường xuyên hớt bọt.",
+   "Cho miếng nạm vào hầm cùng ở 40 phút cuối cho mềm, vớt ra ngâm nước lạnh 5 phút cho thịt săn rồi thái lát mỏng. Phần thịt tái thái thật mỏng, xếp sẵn ra đĩa.",
+   "Nêm nước dùng với muối, 1–2 muỗng nước mắm ngon và ít đường phèn cho ngọt thanh; nêm khi nước còn sôi nhẹ để dễ đánh giá vị.",
+   "Trụng bánh phở trong nước sôi 10–15 giây, vớt ráo cho vào tô; xếp nạm và thịt tái lên trên, rắc hành lá, ngò thái nhỏ.",
+   "Đun nước dùng thật sôi rồi chan ngập tô để thịt tái vừa chín tới. Ăn nóng cùng giá, chanh, ớt và quẩy."
+  ],
+  "image": "/images/pho-bo.jpg",
+  "difficulty": "Khó",
+  "tips": [
+   "Hầm lửa nhỏ liu riu, không để sôi bùng thì nước dùng mới trong.",
+   "Nướng hành, gừng đến thơm là bí quyết cho vị ngọt thanh."
+  ]
+ },
+ {
+  "id": "bun-cha",
+  "name": "Bún chả",
+  "category": "Món nước",
+  "region": "Miền Bắc",
+  "time": 60,
+  "servings": 4,
+  "wiki": "Bún chả",
+  "ingredients": [
+   "Thịt ba chỉ — 400 g",
+   "Thịt nạc vai xay — 300 g",
+   "Bún tươi — 600 g",
+   "Nước mắm, đường, giấm — vừa đủ",
+   "Tỏi, hành khô băm — 3 muỗng",
+   "Đu đủ xanh, cà rốt thái mỏng — 1 bát",
+   "Rau sống các loại — ăn kèm"
+  ],
+  "steps": [
+   "Làm nước ướp: trộn 2 muỗng nước mắm, 2 muỗng đường, 1 muỗng dầu hào, 1 muỗng mật ong (nếu có), hành tỏi băm và tiêu xay.",
+   "Chia nước ướp: thịt ba chỉ thái lát mỏng ướp một phần; thịt xay trộn đều với phần còn lại, nhồi 1–2 phút cho dai rồi để tủ lạnh ít nhất 1 tiếng.",
+   "Nặn thịt xay thành viên tròn dẹt đường kính khoảng 5 cm, dày 1 cm; xiên thịt ba chỉ vào que tre nếu nướng than.",
+   "Nướng trên than hoa lửa vừa, mỗi mặt 4–5 phút, phết thêm chút nước ướp đến khi vàng xém. Nếu dùng nồi chiên không dầu: 180°C trong 12–15 phút, lật giữa chừng.",
+   "Pha nước chấm: hòa 3 muỗng nước mắm, 4 muỗng đường, 3 muỗng giấm với 200 ml nước ấm cho tan; thêm tỏi, ớt thái lát và để nguội.",
+   "Ngâm đu đủ xanh và cà rốt thái sợi trong nước chấm ít nhất 15 phút cho thấm vị chua ngọt.",
+   "Thả chả nướng nóng vào bát nước chấm, dọn cùng bún tươi và rau sống (xà lách, kinh giới, tía tô)."
+  ],
+  "image": "/images/bun-cha.jpg",
+  "difficulty": "Trung bình",
+  "tips": [
+   "Thêm chút mật ong vào nước ướp để thịt nướng lên màu đẹp.",
+   "Ướp qua đêm thì thịt thấm và thơm hơn."
+  ]
+ },
+ {
+  "id": "banh-mi",
+  "name": "Bánh mì thịt",
+  "category": "Món ăn nhanh",
+  "region": "Miền Nam",
+  "time": 30,
+  "servings": 2,
+  "wiki": "Bánh mì Việt Nam",
+  "ingredients": [
+   "Ổ bánh mì — 2 cái",
+   "Thịt nguội, chả lụa — 150 g",
+   "Pa-tê — 2 muỗng",
+   "Dưa leo, ngò, hành lá — vừa đủ",
+   "Đồ chua cà rốt, củ cải — 1 chén",
+   "Bơ hoặc mayonnaise — 2 muỗng",
+   "Nước tương, tiêu, ớt — vừa đủ"
+  ],
+  "steps": [
+   "Nướng bánh mì cho giòn vỏ rồi rạch dọc một đường.",
+   "Phết bơ và pa-tê vào lòng bánh.",
+   "Xếp thịt nguội, chả lụa, dưa leo, đồ chua và ngò.",
+   "Thêm chút nước tương, tiêu, ớt rồi thưởng thức ngay."
+  ],
+  "image": "/images/banh-mi.jpg",
+  "difficulty": "Dễ",
+  "tips": [
+   "Nướng lại ổ bánh trước khi kẹp để vỏ giòn rụm.",
+   "Đồ chua nên ngâm trước ít nhất 1 tiếng."
+  ]
+ },
+ {
+  "id": "com-tam",
+  "name": "Cơm tấm sườn",
+  "category": "Món cơm",
+  "region": "Miền Nam",
+  "time": 60,
+  "servings": 2,
+  "wiki": "Cơm tấm",
+  "ingredients": [
+   "Gạo tấm — 300 g",
+   "Sườn cốt lết — 4 miếng",
+   "Sả, tỏi băm — 2 muỗng",
+   "Nước mắm, đường, dầu hào — vừa đủ",
+   "Trứng ốp la — 2 quả",
+   "Dưa leo, cà chua — vài lát",
+   "Mỡ hành — 3 muỗng"
+  ],
+  "steps": [
+   "Ướp sườn: đập mỏng sườn cốt lết, ướp với 2 muỗng sả băm, 1 muỗng tỏi băm, 2 muỗng nước mắm, 2 muỗng đường, 1 muỗng dầu hào, ít tiêu và 1 muỗng dầu ăn; để tủ lạnh tối thiểu 2 tiếng (qua đêm càng ngon).",
+   "Nấu cơm tấm: vo gạo nhẹ tay 1–2 lần, cho nước ngập mặt gạo khoảng 1 đốt ngón tay; nấu như cơm thường rồi ủ thêm 10 phút cho hạt cơm tơi.",
+   "Nướng sườn: nướng trên than hoặc chảo chống dính lửa vừa 6–8 phút mỗi mặt, phết thêm nước ướp đến khi xém cạnh nhưng không bị khô.",
+   "Làm mỡ hành: thái hành lá nhỏ cho vào bát, rưới 3 muỗng dầu nóng lên, thêm chút muối và khuấy đều.",
+   "Chiên trứng ốp la lòng đào; thái dưa leo, cà chua thành lát; pha nước mắm chua ngọt: 3 muỗng nước mắm, 4 muỗng đường, nước cốt chanh, nước ấm, tỏi ớt.",
+   "Bày cơm ra đĩa, xếp sườn, trứng, dưa leo, cà chua; rưới mỡ hành lên cơm và dùng kèm chén nước mắm."
+  ],
+  "image": "/images/com-tam.jpg",
+  "difficulty": "Trung bình",
+  "tips": [
+   "Đập mỏng sườn để nướng nhanh chín và mềm.",
+   "Mỡ hành rưới lúc còn nóng sẽ dậy mùi hơn."
+  ]
+ },
+ {
+  "id": "bun-bo-hue",
+  "name": "Bún bò Huế",
+  "category": "Món nước",
+  "region": "Miền Trung",
+  "time": 150,
+  "servings": 4,
+  "wiki": "Bún bò Huế",
+  "ingredients": [
+   "Bắp bò, giò heo — 600 g",
+   "Bún sợi to — 500 g",
+   "Sả đập dập — 5 cây",
+   "Mắm ruốc Huế — 2 muỗng",
+   "Sa tế, ớt bột — 3 muỗng",
+   "Hành tím, ngò, hành lá — vừa đủ",
+   "Rau sống: bắp chuối, giá, rau muống chẻ"
+  ],
+  "steps": [
+   "Sơ chế thịt: rửa bắp bò và giò heo với nước muối, gừng; chần 5 phút rồi rửa lại cho sạch bọt.",
+   "Nấu nước dùng: cho thịt vào nồi 4 lít nước cùng 5 cây sả đập dập (để lại phần đầu sả), 1 củ hành tây nướng; đun sôi rồi hầm lửa nhỏ.",
+   "Vớt bắp bò khi mềm (khoảng 1 tiếng), ngâm nước lạnh 5 phút rồi thái lát; giò heo hầm thêm 30 phút đến khi mềm nhưng chưa nát.",
+   "Pha mắm ruốc: hòa 2 muỗng mắm ruốc với 200 ml nước, để lắng 15 phút, lọc lấy phần nước trong cho vào nồi (bỏ cặn).",
+   "Làm sa tế: phi thơm hành tím và phần đầu sả băm với 4 muỗng dầu, cho 2 muỗng ớt bột vào đảo nhẹ lửa nhỏ, đừng để cháy; đổ vào nồi nước dùng cho dậy màu đỏ cam.",
+   "Nêm nước mắm, muối, đường phèn cho vị cay, mặn, ngọt hài hòa.",
+   "Trụng bún, xếp bắp bò, giò heo, hành ngò vào tô, chan nước dùng nóng; ăn cùng bắp chuối bào, giá, rau muống chẻ, chanh và ớt."
+  ],
+  "image": "/images/bun-bo-hue.jpg",
+  "difficulty": "Khó",
+  "tips": [
+   "Lọc kỹ mắm ruốc để nước dùng không bị đục.",
+   "Đừng bỏ phần sả đập dập vì đây là mùi đặc trưng của món."
+  ]
+ },
+ {
+  "id": "banh-xeo",
+  "name": "Bánh xèo",
+  "category": "Món chiên",
+  "region": "Miền Nam",
+  "time": 60,
+  "servings": 4,
+  "wiki": "Bánh xèo",
+  "ingredients": [
+   "Bột bánh xèo — 300 g",
+   "Nước cốt dừa — 200 ml",
+   "Tôm, thịt ba chỉ — 300 g",
+   "Giá, hành lá — vừa đủ",
+   "Nghệ bột — 1 muỗng cà phê",
+   "Rau sống, bánh tráng — ăn kèm",
+   "Nước mắm chua ngọt — 1 chén"
+  ],
+  "steps": [
+   "Pha bột: trộn 300 g bột bánh xèo với 450 ml nước lạnh, 150 ml nước cốt dừa, 1/2 muỗng cà phê nghệ, chút muối và hành lá cắt nhỏ; khuấy đều rồi để nghỉ 30 phút.",
+   "Sơ chế nhân: thịt ba chỉ thái mỏng ướp tiêu, nước mắm; tôm bóc vỏ rửa sạch. Xào sơ tôm và thịt với chút tỏi đến khi vừa chín.",
+   "Làm nóng chảo chống dính lửa lớn, quét một lớp dầu mỏng; đổ một vá bột vào, xoay đều cho bột tráng mỏng. Nghe tiếng “xèo” là đúng độ nóng.",
+   "Cho 2–3 con tôm, vài lát thịt và một nắm giá lên nửa bánh, đậy nắp 2 phút cho nhân chín, sau đó mở nắp, hạ lửa vừa.",
+   "Chiên thêm 3–4 phút đến khi viền bánh giòn vàng, rưới chút dầu quanh mép cho giòn rụm rồi gập đôi bánh lại.",
+   "Pha nước chấm: 3 muỗng nước mắm, 4 muỗng đường, 2 muỗng nước cốt chanh, 150 ml nước ấm, tỏi ớt băm.",
+   "Dọn bánh nóng cùng xà lách, cải xanh, diếp cá, húng quế; cuốn bánh với rau trong bánh tráng và chấm nước mắm."
+  ],
+  "image": "/images/banh-xeo.jpg",
+  "difficulty": "Trung bình",
+  "tips": [
+   "Chảo phải thật nóng trước khi đổ bột thì bánh mới giòn.",
+   "Thêm chút bia hoặc nước có ga vào bột để bánh xốp giòn."
+  ]
+ },
+ {
+  "id": "goi-cuon",
+  "name": "Gỏi cuốn",
+  "category": "Món cuốn",
+  "region": "Miền Nam",
+  "time": 40,
+  "servings": 4,
+  "wiki": "Gỏi cuốn",
+  "ingredients": [
+   "Bánh tráng — 12 tờ",
+   "Tôm luộc — 300 g",
+   "Thịt ba chỉ luộc — 200 g",
+   "Bún tươi — 200 g",
+   "Xà lách, rau thơm, hẹ — vừa đủ",
+   "Tương đậu phộng — 1 chén",
+   "Đậu phộng rang — 2 muỗng"
+  ],
+  "steps": [
+   "Luộc thịt: cho thịt ba chỉ vào nước lạnh có chút muối, đun sôi rồi luộc khoảng 20 phút; chọc đũa không ra nước hồng là chín. Vớt ngâm nước lạnh 3 phút cho thịt săn.",
+   "Luộc tôm 3 phút đến khi chuyển màu đỏ cam, bóc vỏ, bổ đôi theo chiều dọc; thịt để nguội thái lát mỏng.",
+   "Chuẩn bị rau: rửa xà lách, rau thơm, hẹ; cắt hẹ thành đoạn dài khoảng 12 cm. Luộc bún tươi rồi để ráo.",
+   "Nhúng nhanh tờ bánh tráng vào nước ấm, đặt lên thớt chờ 20 giây cho mềm; xếp 3 con tôm (mặt đỏ úp xuống) ở rìa dưới của bánh.",
+   "Xếp xà lách, bún, rau thơm và thịt lên trên, cuốn một vòng, gập hai bên vào, đặt cọng hẹ rồi cuốn chặt tay đến hết.",
+   "Pha tương: phi tỏi, cho 3 muỗng tương hột, 1 muỗng đường, 100 ml nước và 2 muỗng bột năng hòa nước, đun sệt; rắc đậu phộng rang giã nhỏ và ớt."
+  ],
+  "image": "/images/goi-cuon.jpg",
+  "difficulty": "Dễ",
+  "tips": [
+   "Nhúng bánh tráng thật nhanh, để vài giây cho mềm tự nhiên.",
+   "Cuốn chặt tay để gỏi cuốn không bị bung khi chấm."
+  ]
+ },
+ {
+  "id": "cha-gio",
+  "name": "Chả giò",
+  "category": "Món chiên",
+  "region": "Miền Nam",
+  "time": 60,
+  "servings": 4,
+  "wiki": "Chả giò",
+  "ingredients": [
+   "Bánh tráng chả giò — 20 tờ",
+   "Thịt heo xay — 300 g",
+   "Tôm băm — 150 g",
+   "Miến, mộc nhĩ, cà rốt — vừa đủ",
+   "Hành tím, tiêu, nước mắm — vừa đủ",
+   "Trứng gà — 1 quả",
+   "Dầu ăn — để chiên"
+  ],
+  "steps": [
+   "Ngâm miến, mộc nhĩ cho mềm rồi cắt nhỏ, cà rốt bào sợi.",
+   "Trộn đều thịt, tôm, miến, mộc nhĩ, cà rốt, hành tím, trứng và gia vị.",
+   "Cuốn nhân vào bánh tráng thành từng cuộn chặt tay.",
+   "Chiên ngập dầu lửa vừa đến khi vàng giòn, vớt ra giấy thấm dầu, ăn với rau sống và nước mắm."
+  ],
+  "image": "/images/cha-gio.jpg",
+  "difficulty": "Trung bình",
+  "tips": [
+   "Để ráo nhân trước khi cuốn để chả không bị nhão.",
+   "Chiên hai lần: lần 1 lửa vừa cho chín, lần 2 lửa lớn cho giòn."
+  ]
+ },
+ {
+  "id": "banh-cuon",
+  "name": "Bánh cuốn",
+  "category": "Món cuốn",
+  "region": "Miền Bắc",
+  "time": 60,
+  "servings": 3,
+  "wiki": "Bánh cuốn",
+  "ingredients": [
+   "Bột gạo — 200 g",
+   "Bột năng — 50 g",
+   "Thịt heo xay — 200 g",
+   "Mộc nhĩ, hành khô — vừa đủ",
+   "Chả lụa — 1 khúc",
+   "Hành phi — 3 muỗng",
+   "Nước mắm pha chua ngọt — 1 chén"
+  ],
+  "steps": [
+   "Pha bột gạo, bột năng với nước và chút muối, để nghỉ 30 phút.",
+   "Xào thịt xay với mộc nhĩ và hành khô thành nhân.",
+   "Tráng bột mỏng trên khăn căng trên nồi nước sôi, đậy nắp 30 giây cho chín.",
+   "Cho nhân vào, cuốn lại, rắc hành phi và ăn kèm chả lụa, nước mắm."
+  ],
+  "image": "/images/banh-cuon.jpg",
+  "difficulty": "Khó",
+  "tips": [
+   "Bột loãng và tráng mỏng thì bánh mới mềm dai.",
+   "Ăn ngay khi còn nóng sẽ ngon nhất."
+  ]
+ },
+ {
+  "id": "mi-quang",
+  "name": "Mì Quảng",
+  "category": "Món nước",
+  "region": "Miền Trung",
+  "time": 60,
+  "servings": 4,
+  "wiki": "Mì Quảng",
+  "ingredients": [
+   "Mì Quảng tươi — 500 g",
+   "Tôm, thịt heo — 400 g",
+   "Nghệ, hành tím, tỏi — vừa đủ",
+   "Đậu phộng rang — 3 muỗng",
+   "Bánh tráng mè — 2 cái",
+   "Rau sống: rau muống, bắp chuối, húng",
+   "Nước mắm, tiêu — vừa đủ"
+  ],
+  "steps": [
+   "Ướp tôm, thịt với nghệ, hành tỏi băm rồi xào săn lại.",
+   "Thêm ít nước, đun liu riu cho nước sốt sệt, nêm vừa ăn.",
+   "Cho rau sống xuống tô, xếp mì lên trên.",
+   "Thêm tôm thịt, chan lượng nước vừa đủ, rắc đậu phộng, bẻ bánh tráng và ăn nóng."
+  ],
+  "image": "/images/mi-quang.jpg",
+  "difficulty": "Trung bình",
+  "tips": [
+   "Nước nhưn chỉ lưng bát, không chan ngập như hủ tiếu.",
+   "Bánh tráng mè nướng giòn bẻ vào là bước không thể thiếu."
+  ]
+ },
+ {
+  "id": "hu-tieu",
+  "name": "Hủ tiếu Nam Vang",
+  "category": "Món nước",
+  "region": "Miền Nam",
+  "time": 120,
+  "servings": 4,
+  "wiki": "Hủ tiếu",
+  "ingredients": [
+   "Hủ tiếu khô hoặc tươi — 500 g",
+   "Xương heo — 800 g",
+   "Tôm, thịt bằm — 300 g",
+   "Gan, tim heo — 150 g",
+   "Củ cải trắng, hành tây — 1 củ mỗi loại",
+   "Tỏi phi, hẹ, cần tây — vừa đủ",
+   "Nước mắm, đường phèn — vừa đủ"
+  ],
+  "steps": [
+   "Chần xương heo rồi hầm cùng củ cải, hành tây, đường phèn khoảng 1,5 tiếng.",
+   "Luộc tôm, gan, tim; xào thịt bằm với tỏi.",
+   "Trụng hủ tiếu qua nước sôi, cho vào tô.",
+   "Xếp tôm, thịt, gan lên, chan nước dùng, thêm tỏi phi, hẹ, cần tây."
+  ],
+  "image": "/images/hu-tieu.jpg",
+  "difficulty": "Trung bình",
+  "tips": [
+   "Thêm đường phèn để nước dùng ngọt thanh tự nhiên.",
+   "Trụng hủ tiếu nhanh tay để sợi không bị nát."
+  ]
+ },
+ {
+  "id": "bun-rieu",
+  "name": "Bún riêu cua",
+  "category": "Món nước",
+  "region": "Miền Bắc",
+  "time": 90,
+  "servings": 4,
+  "wiki": "Bún riêu",
+  "ingredients": [
+   "Cua đồng xay — 500 g",
+   "Cà chua — 4 quả",
+   "Đậu phụ chiên — 4 miếng",
+   "Bún tươi — 500 g",
+   "Mắm tôm, me — 1 ít",
+   "Hành khô — 2 củ",
+   "Rau sống: rau muống, tía tô, kinh giới"
+  ],
+  "steps": [
+   "Lọc cua với nước, đun lửa nhỏ để riêu cua nổi thành tảng, vớt riêng.",
+   "Phi hành, xào cà chua rồi cho vào nước dùng; nêm me, mắm tôm, muối.",
+   "Thêm đậu phụ chiên vào nồi cho thấm vị.",
+   "Xếp bún, riêu cua và đậu phụ vào tô, chan nước dùng, ăn kèm rau sống."
+  ],
+  "image": "/images/bun-rieu.jpg",
+  "difficulty": "Khó",
+  "tips": [
+   "Khuấy rất nhẹ khi riêu nổi để riêu không bị vỡ.",
+   "Cà chua xào kỹ cho ra màu đỏ đẹp."
+  ]
+ },
+ {
+  "id": "canh-chua",
+  "name": "Canh chua cá",
+  "category": "Món canh",
+  "region": "Miền Nam",
+  "time": 40,
+  "servings": 4,
+  "wiki": "Canh chua",
+  "ingredients": [
+   "Cá lóc hoặc cá basa — 500 g",
+   "Me chua — 2 muỗng",
+   "Cà chua, thơm, đậu bắp — vừa đủ",
+   "Giá đỗ, bạc hà — 1 nắm",
+   "Rau om, ngò gai — vừa đủ",
+   "Tỏi, ớt — vừa đủ",
+   "Nước mắm, đường — vừa đủ"
+  ],
+  "steps": [
+   "Sơ chế cá: cắt cá lóc thành khúc dày 3 cm, bóp với muối và chanh rồi rửa sạch để khử mùi tanh.",
+   "Chuẩn bị rau: cà chua cắt múi cau, thơm cắt lát mỏng, đậu bắp xiên chéo, bạc hà tước vỏ cắt lát; nhặt giá, thái nhỏ rau om, ngò gai.",
+   "Nấu nước me: hòa 2 muỗng me chua với 1 lít nước ấm, lọc lấy nước cho vào nồi, đun sôi cùng 1 muỗng đường.",
+   "Thả cá vào khi nước sôi, đun lửa vừa 5–7 phút đến khi chín thì hạ nhỏ lửa, không khuấy mạnh để cá không nát.",
+   "Cho cà chua, thơm, bạc hà, đậu bắp vào nấu thêm 2–3 phút rồi nêm 2 muỗng nước mắm cho vừa ăn.",
+   "Cuối cùng cho giá, rau om, ngò gai và tỏi phi vàng, tắt bếp ngay để rau còn giòn xanh; ăn nóng với cơm trắng và nước mắm ớt."
+  ],
+  "image": "/images/canh-chua.jpg",
+  "difficulty": "Dễ",
+  "tips": [
+   "Cho rau vào sau cùng để giữ độ giòn và màu xanh.",
+   "Nêm chua ngọt theo khẩu vị từng vùng miền."
+  ]
+ },
+ {
+  "id": "ca-kho-to",
+  "name": "Cá kho tộ",
+  "category": "Món mặn",
+  "region": "Miền Nam",
+  "time": 60,
+  "servings": 4,
+  "wiki": "Cá kho tộ",
+  "ingredients": [
+   "Cá lóc cắt khúc — 600 g",
+   "Nước dừa tươi — 300 ml",
+   "Đường, nước màu — 3 muỗng",
+   "Nước mắm — 3 muỗng",
+   "Tỏi, hành tím, ớt — vừa đủ",
+   "Tiêu xay — 1 muỗng cà phê",
+   "Hành lá — vừa đủ"
+  ],
+  "steps": [
+   "Sơ chế cá: cắt cá lóc thành khúc dày 3–4 cm, bóp muối và gừng giã nhỏ, rửa lại rồi để ráo.",
+   "Ướp cá: trộn 3 muỗng nước mắm, 1 muỗng đường, 1 muỗng tiêu, hành tím và tỏi băm; ướp 20–30 phút.",
+   "Thắng nước màu: cho 3 muỗng đường vào tộ đất hoặc nồi, đun lửa nhỏ, khuấy nhẹ đến khi chuyển màu cánh gián và bắt đầu sủi bọt thì tắt bếp ngay (để lâu sẽ đắng).",
+   "Xếp cá vào nồi, thêm ít thịt ba chỉ thái miếng nếu thích, đổ 300 ml nước dừa tươi sao cho ngập khoảng 2/3 cá, thêm vài lát ớt.",
+   "Đun sôi rồi hạ lửa nhỏ nhất, kho liu riu khoảng 40 phút, không đậy kín nắp; thỉnh thoảng múc nước sốt rưới lên cá chứ không đảo mạnh.",
+   "Khi nước kho sánh lại và cá có màu nâu bóng, nêm lại cho vừa miệng, rắc tiêu và hành lá; dùng với cơm nóng."
+  ],
+  "image": "/images/ca-kho-to.jpg",
+  "difficulty": "Trung bình",
+  "tips": [
+   "Kho lửa thật nhỏ và để nguội qua đêm, cá sẽ đậm vị hơn.",
+   "Nước màu chỉ cần cánh gián, cháy sẽ bị đắng."
+  ]
+ },
+ {
+  "id": "thit-kho-tau",
+  "name": "Thịt kho trứng",
+  "category": "Món mặn",
+  "region": "Miền Nam",
+  "time": 90,
+  "servings": 4,
+  "wiki": "Thịt kho tàu",
+  "ingredients": [
+   "Thịt ba chỉ — 600 g",
+   "Trứng vịt hoặc gà — 6 quả",
+   "Nước dừa tươi — 500 ml",
+   "Nước mắm, đường — 3 muỗng mỗi loại",
+   "Hành tím, tỏi — vừa đủ",
+   "Tiêu, ớt — vừa đủ"
+  ],
+  "steps": [
+   "Luộc trứng 8 phút, ngâm nước lạnh rồi bóc vỏ; rạch nhẹ vài đường trên mặt trứng để thấm vị.",
+   "Cắt thịt ba chỉ thành khối vuông 3 cm, chần qua nước sôi 2 phút, rửa sạch; ướp với 2 muỗng nước mắm, 1 muỗng đường, hành tỏi băm và tiêu trong 30 phút.",
+   "Thắng nước màu: cho 2 muỗng đường vào nồi lửa nhỏ, đến khi chuyển màu cánh gián thì cho thịt vào đảo đều cho săn lại và lên màu.",
+   "Đổ nước dừa tươi ngập mặt thịt (khoảng 500 ml), đun sôi rồi hạ lửa nhỏ, hớt bọt.",
+   "Kho 40 phút rồi cho trứng vào kho thêm 30 phút, thỉnh thoảng đảo nhẹ để trứng lên màu đều.",
+   "Nêm lại nước mắm, đường; khi nước kho sánh, thịt mềm và trứng ngả nâu thì tắt bếp, ăn cùng cơm trắng và dưa cải chua."
+  ],
+  "image": "/images/thit-kho-tau.jpg",
+  "difficulty": "Dễ",
+  "tips": [
+   "Dùng nước dừa tươi thay nước lọc để nước kho có vị ngọt dịu.",
+   "Hớt bọt kỹ để nước kho trong và đẹp."
+  ]
+ },
+ {
+  "id": "bo-luc-lac",
+  "name": "Bò lúc lắc",
+  "category": "Món xào",
+  "region": "Miền Nam",
+  "time": 30,
+  "servings": 3,
+  "wiki": "Bò lúc lắc",
+  "ingredients": [
+   "Thăn bò — 400 g",
+   "Hành tây, ớt chuông — 1 củ mỗi loại",
+   "Tỏi băm — 3 muỗng",
+   "Dầu hào, nước tương — 2 muỗng mỗi loại",
+   "Bơ — 1 muỗng",
+   "Xà lách, cà chua — để lót đĩa",
+   "Tiêu đen — vừa đủ"
+  ],
+  "steps": [
+   "Cắt bò: thịt thăn bò cắt vuông 2–2,5 cm, thấm khô bằng giấy bếp để khi áp chảo có màu đẹp.",
+   "Ướp bò: trộn bò với 2 muỗng dầu hào, 1 muỗng nước tương, 1 muỗng đường, 1 muỗng dầu ăn, 3 tép tỏi băm và nhiều tiêu đen; ướp 20 phút (không ướp quá lâu để thịt không bị mặn).",
+   "Chuẩn bị rau: hành tây cắt múi cau, ớt chuông cắt vuông; xếp sẵn xà lách và cà chua ra đĩa.",
+   "Làm nóng chảo gang hoặc chảo dày thật to đến khi bốc khói nhẹ, cho dầu và 1 muỗng bơ.",
+   "Cho bò vào chảo thành một lớp (chia 2 mẻ nếu chảo nhỏ), để yên 30 giây cho xém mặt rồi lắc chảo đều, xào 1–2 phút ở lửa lớn.",
+   "Thêm hành tây, ớt chuông xào nhanh 30 giây; nêm lại, tắt bếp, bày ra đĩa và dùng nóng với cơm hoặc bánh mì."
+  ],
+  "image": "/images/bo-luc-lac.jpg",
+  "difficulty": "Dễ",
+  "tips": [
+   "Chảo thật nóng và không cho quá nhiều thịt một lúc.",
+   "Xào lửa lớn trong thời gian ngắn để bò mềm, mọng nước."
+  ]
+ },
+ {
+  "id": "banh-khot",
+  "name": "Bánh khọt",
+  "category": "Món chiên",
+  "region": "Miền Nam",
+  "time": 45,
+  "servings": 4,
+  "wiki": "Bánh khọt",
+  "ingredients": [
+   "Bột gạo — 200 g",
+   "Nước cốt dừa — 150 ml",
+   "Tôm bóc vỏ — 300 g",
+   "Nghệ bột — 1 muỗng cà phê",
+   "Hành lá, mỡ hành — vừa đủ",
+   "Rau sống, xà lách — ăn kèm",
+   "Nước mắm chua ngọt — 1 chén"
+  ],
+  "steps": [
+   "Trộn bột gạo, nước cốt dừa, nghệ và nước thành hỗn hợp loãng vừa.",
+   "Làm nóng khuôn bánh khọt, quét dầu rồi đổ bột đầy 2/3 khuôn.",
+   "Đặt tôm lên mặt bánh, đậy nắp cho bánh vàng giòn.",
+   "Rưới mỡ hành, cuốn bánh với xà lách và rau sống rồi chấm nước mắm."
+  ],
+  "image": "/images/banh-khot.jpg",
+  "difficulty": "Trung bình",
+  "tips": [
+   "Khuôn phải nóng và quét dầu đủ để bánh không dính.",
+   "Đổ bột 2/3 khuôn để bánh có viền giòn, giữa mềm."
+  ]
+ },
+ {
+  "id": "cao-lau",
+  "name": "Cao lầu",
+  "category": "Món nước",
+  "region": "Miền Trung",
+  "time": 60,
+  "servings": 3,
+  "wiki": "Cao lầu",
+  "ingredients": [
+   "Sợi cao lầu — 400 g",
+   "Thịt xá xíu — 250 g",
+   "Giá đỗ — 100 g",
+   "Rau sống Trà Quế — 1 rổ",
+   "Bánh tráng chiên giòn — 2 miếng",
+   "Nước sốt thịt — vài muỗng",
+   "Tóp mỡ — 2 muỗng"
+  ],
+  "steps": [
+   "Ướp thịt heo với ngũ vị hương, nước tương, đường rồi áp chảo hoặc nướng thành xá xíu, thái lát.",
+   "Chần sợi cao lầu và giá đỗ qua nước sôi.",
+   "Xếp rau sống xuống đáy tô, thêm sợi cao lầu, giá và thịt xá xíu.",
+   "Rưới ít nước sốt, rắc tóp mỡ, bẻ bánh tráng chiên lên trên và trộn đều khi ăn."
+  ],
+  "image": "/images/cao-lau.jpg",
+  "difficulty": "Khó",
+  "tips": [
+   "Sợi cao lầu có độ dai riêng nên đừng trụng quá lâu.",
+   "Rau sống nên ăn kèm nhiều để cân bằng vị."
+  ]
+ },
+ {
+  "id": "bun-dau",
+  "name": "Bún đậu mắm tôm",
+  "category": "Món ăn nhanh",
+  "region": "Miền Bắc",
+  "time": 45,
+  "servings": 3,
+  "wiki": "Bún đậu mắm tôm",
+  "ingredients": [
+   "Bún lá — 400 g",
+   "Đậu phụ — 5 miếng",
+   "Chả cốm hoặc chả lá lốt — 6 miếng",
+   "Mắm tôm — 3 muỗng",
+   "Chanh, đường, ớt — vừa đủ",
+   "Rau kinh giới, tía tô, dưa leo — 1 đĩa",
+   "Dầu ăn — để chiên"
+  ],
+  "steps": [
+   "Cắt đậu phụ thành miếng vuông, chiên ngập dầu đến khi vàng giòn.",
+   "Chiên chả cốm hoặc chả lá lốt cho vàng đều.",
+   "Đánh mắm tôm với chanh, đường, ớt và một chút dầu nóng cho sủi bọt.",
+   "Bày bún, đậu, chả và rau ra mẹt, chấm mắm tôm khi ăn."
+  ],
+  "image": "/images/bun-dau.jpg",
+  "difficulty": "Dễ",
+  "tips": [
+   "Chiên đậu hai lần để vỏ giòn, ruột mềm.",
+   "Đánh mắm tôm với chút dầu nóng cho bớt nặng mùi."
+  ]
+ },
+ {
+  "id": "che",
+  "name": "Chè đậu xanh nước cốt dừa",
+  "category": "Tráng miệng",
+  "region": "Cả nước",
+  "time": 50,
+  "servings": 4,
+  "wiki": "Chè",
+  "ingredients": [
+   "Đậu xanh cà vỏ — 200 g",
+   "Đường cát — 100 g",
+   "Nước cốt dừa — 200 ml",
+   "Bột năng — 1 muỗng",
+   "Lá dứa — 3 lá",
+   "Muối — 1 nhúm",
+   "Đá bào — tùy thích"
+  ],
+  "steps": [
+   "Ngâm đậu xanh 2 tiếng, vo sạch rồi hấp hoặc nấu mềm cùng lá dứa.",
+   "Thêm đường, nấu thêm 10 phút cho tan và thấm vị.",
+   "Hòa bột năng với nước, cho vào nồi khuấy đến khi chè hơi sánh.",
+   "Đun nước cốt dừa với chút muối và bột năng; múc chè ra ly, rưới nước cốt dừa, thêm đá nếu thích."
+  ],
+  "image": "/images/che.jpg",
+  "difficulty": "Dễ",
+  "tips": [
+   "Ngâm đậu xanh trước giúp đậu mềm nhanh và đều.",
+   "Nước cốt dừa chỉ đun lửa nhỏ để không bị tách dầu."
+  ]
+ }
+]
